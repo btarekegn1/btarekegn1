@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Bereket 👋
 
-<!--
-**btarekegn1/btarekegn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Applied Data Science Graduate Student | Supply Chain Analytics | Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I'm currently pursuing my Master of Science in Applied Data Science at the University of San Diego.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work in supply chain systems and analytics, where I use data to improve warehouse operations, inventory management, and business decision-making.
+
+My interests include machine learning, predictive analytics, time series forecasting, data engineering, and cloud technologies.
+
+### Technical Skills
+
+**Programming & Analytics:** Python, SQL, Power BI
+
+**Data Platforms:** Snowflake, Azure Data Factory, Azure SQL
+
+**Data Science:** Machine Learning, Statistical Analysis, Data Visualization, Predictive Modeling
+
+**Business Systems:** Blue Yonder WMS, Warehouse Management, Supply Chain Analytics
+
+### Currently Learning
+
+* Advanced machine learning and predictive modeling
+* Time series analysis and forecasting
+* Cloud data engineering
+* Generative AI and large language models
+
+### Projects
+
+This profile will feature academic and personal projects involving:
+
+* Machine learning and predictive analytics
+* Supply chain and inventory forecasting
+* Data engineering pipelines
+* Business intelligence and visualization
+
+### Career Interests
+
+I'm interested in opportunities that combine data science, data engineering, and business analytics to solve real-world problems.
+
+### Connect With Me
+
+GitHub: btarekegn1
